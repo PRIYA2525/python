@@ -1,4 +1,4 @@
-'''python
+'''
 START
 Input number
 If number>0THEN
@@ -11,7 +11,7 @@ END
 
 '''
 
-'''python
+'''
 
 START
 Input age 
